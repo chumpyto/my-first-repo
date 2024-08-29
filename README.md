@@ -1,2 +1,1 @@
-# my-first-repo
-test repository
+este propyecto es una prueba
